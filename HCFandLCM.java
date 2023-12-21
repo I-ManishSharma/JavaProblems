@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fifth {
+public class HCFandLCM {
 
     static int findHcf(int a, int b) {
         while (b>0) {

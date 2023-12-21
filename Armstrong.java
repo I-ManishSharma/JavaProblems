@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class first {
+public class Armstrong {
     public static void main(String[] args) {
 
         //Program to check whether a number is a Armstrong or not.

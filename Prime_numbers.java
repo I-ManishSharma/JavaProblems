@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class third {
+public class Prime_numbers {
 
     //Program to print 'n' Prime numbers.
 

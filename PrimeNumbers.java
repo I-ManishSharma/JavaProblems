@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class second {
+public class PrimeNumbers {
 
     //Program to check a number is prime numbers or not.
     public static void main(String[] args) {

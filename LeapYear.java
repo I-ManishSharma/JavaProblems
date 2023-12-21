@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fourth {
+public class LeapYear {
 
     //Program to check Leap Year.
 
