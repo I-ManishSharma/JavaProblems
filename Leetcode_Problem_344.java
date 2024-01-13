@@ -3,8 +3,6 @@
  * reverce character array
  */
 
-import java.util.Arrays;
-
 public class Leetcode_Problem_344 {
 /*
     //Method 1
