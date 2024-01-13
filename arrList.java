@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class arrList {
     public static void main(String[] args) {
@@ -43,6 +44,14 @@ public class arrList {
             nums.add(i);
         }
         System.out.println("Printing arrayList after inserting elements form arry "+nums);
+        //Adding 2nd array to arrayList
+        int [] arr1 = {15, 12, 13, 45, 78};
+        for (int i : arr1) {
+            nums.add(i);
+        }
+        System.out.println(nums);
+        Collections.sort(nums);
+        System.out.println(nums);
         // Searching in ArrayList
         int element = 0;
         for (int i = 0; i < nums.size(); i++) {
